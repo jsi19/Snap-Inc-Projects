@@ -4,8 +4,7 @@ Here are the various projects that I completed during my time at Snap Inc. as a 
 ## Capstone Project
 
 
-### #1 Prototype Snapchat Feature "Snap Hugs" ♥
-
+### #1 Prototype Snapchat Feature "Snap Hugs" ✊
 ~ | Overview |
 |---|---|
 **Sample** | [<img src="Samples/Snap-Hugs/hugs_overview.gif" height="500"/>](https://github.com/jsi19/Snap-Hugs) | 
